@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub portfolio](https://github.com/MinzLong).
 
-- 📫 How to reach me: **[minhlong@example.com](mailto:minhlong1510.dna@gmail.com)**
+- 📫 How to reach me: **[minhlong1510.dna@gmail.com](mailto:minhlong1510.dna@gmail.com)**
 
 ---
 
