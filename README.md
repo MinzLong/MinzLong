@@ -64,10 +64,10 @@
 
 <h2 align="left">Let's Connect:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/MinzLong" target="_blank">
+  <a href="https://www.linkedin.com/in/l%C3%AA-long-aaa194246/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="40" height="40" />
   </a>
-  <a href="mailto:minhlong@example.com" target="_blank">
+  <a href="mailto:minhlong1510.dna@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" width="40" height="40" />
   </a>
 </p>
