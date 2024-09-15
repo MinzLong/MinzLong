@@ -56,11 +56,6 @@
 
 ---
 
-<h2 align="left">Recent Activity</h2>
-<!--START_SECTION:activity-->
-1. 📦 Opened a new issue in [example-repo](https://github.com/example-repo/issues/1)
-2. 🎉 Created a new repository [MinzLong/new-project](https://github.com/MinzLong/new-project)
-<!--END_SECTION:activity-->
 
 <h2 align="left">Let's Connect:</h2>
 <p align="left">
