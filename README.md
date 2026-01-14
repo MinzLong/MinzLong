@@ -29,7 +29,6 @@
 <!-- ========= QUICK INTRO CARD ========= -->
 <div align="center">
 
-### ⚡ Neon Summary
 **AI/ML projects** (training • inference • data pipeline)  
 **DevOps builder** (Docker • CI/CD • cloud deploy – learning by doing)  
 🎯 Goal: **AI / DevOps Intern → Engineer**
