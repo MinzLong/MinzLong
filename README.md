@@ -53,17 +53,8 @@
 ### 🔥 Activity Graph (30 days)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinzLong&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
 
-### 🐍 Contribution Snake (auto-generated)
+### 🐍 Contribution Snake 
 <img src="https://raw.githubusercontent.com/MinzLong/MinzLong/output/snake.svg" />
-
-### 📊 GitHub Stats (nếu bạn tự host sẽ ổn định hơn)
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MinzLong&show_icons=true&theme=radical&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinzLong&layout=compact&theme=radical&hide_border=true" />
-
-### ⚡ Streak (dùng demolab endpoint hay ổn hơn)
-<img src="https://streak-stats.demolab.com?user=MinzLong&theme=radical&hide_border=true" />
-
----
 
 ## 🤝 Connect
 - Email: **minhlong1510.dna@gmail.com**
