@@ -4,9 +4,6 @@
 ========================================================= -->
 
 <!-- ========= NEON HERO ========= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=L%C3%AA%20Minh%20Long&fontAlign=50&fontAlignY=35&desc=Aspiring%20AI%20%26%20DevOps%20Engineer%20%7C%20Neon%20Builder%20Mode&descAlign=50&descAlignY=56&animation=twinkling&color=gradient" />
-</p>
 
 <p align="center">
   <a href="https://github.com/MinzLong">
